@@ -22,3 +22,5 @@ navLinks.addEventListener("click", () => {
     menuBtnIcon.setAttribute("class", "bi bi-list");
 
 });
+
+
